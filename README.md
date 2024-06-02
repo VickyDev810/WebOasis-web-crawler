@@ -2,6 +2,10 @@
 
 WebOasis is a web crawler and information retrieval system that seamlessly integrates visual and textual data from various sources. This project is implemented in C++ with the Qt framework for the user interface.
 
+## Disclaimer
+
+This repository is maintained by Veer Vikram Singh as part of my professional work. You might find similar content on my personal GitHub account [@portgasDace2004](https://github.com/portgasDace2004). Please note that both accounts are managed by me, and the content may overlap as part of my workflow and version control practices.
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -36,18 +40,21 @@ Ensure you have the necessary dependencies installed before building and running
 
 - C++ compiler
 - Qt framework
-- [Add any additional dependencies]
+- Unsplash API key
+- Bing Images API key
+- Wikipedia API key
+- CMake
 
 ## Building and Running
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/WebOasis.git
-
-2. To work on this project, you would require the QT framework.
-
-3. Download Qt for your device from here https://www.qt.io/download
+   git clone https://github.com/VickyDev810/WebOasis-web-crawler.git
+   ```
+2. To work on this project, you would require the QT framework .
+   
+3. Download Qt for your device from here [QT](https://www.qt.io/download).
 
 4. Open the project in QT to start working on it.
 
