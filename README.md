@@ -87,7 +87,7 @@ This should resolve the issue and allow you to proceed without the error.
 
 ## Credits
 
-- VEER VIKRAAM SINGH Project Author and Primary Contributor
+- VEER VIKRAM SINGH Project Author and Primary Contributor
 
 ## Snapshots
 ![Working project](https://github.com/portgasDace2004/WEBOASIS_A-_WEB_CRAWLER/assets/120649592/1a3ce54e-acd7-4d77-8608-f53809deec57)
